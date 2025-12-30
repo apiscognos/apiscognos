@@ -30,7 +30,8 @@ The main goal of apiscognos is to:
 Planned project focused on exploratory data analysis and insights
 from real-world datasets.
 
-🛠️ Python • Pandas • Visualization • SQL • Excel • Power BI • Tableau
+🛠️ Python • Pandas • Visualization • SQL
+• Excel • Power BI • Tableau
 🔜 Status: In planning stage  
 👉 <a href="https://github.com/apiscognos/data-analysis-project">Repository</a>
 
